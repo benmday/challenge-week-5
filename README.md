@@ -18,8 +18,8 @@ Each past hour will display grey, the current hour will display red, and any fut
 ![A screenshot of the project](./Assets/project-screenshot.png)
 
 
-* The URL of the deployed application:
+* The URL of the deployed application: https://benmday.github.io/challenge-week-5/
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository: https://github.com/benmday/challenge-week-5
 
 - - -
